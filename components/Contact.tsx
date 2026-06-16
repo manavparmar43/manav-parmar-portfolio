@@ -22,8 +22,8 @@ const quickConnect = [
       </svg>
     ),
     label: "Connect on LinkedIn",
-    value: "linkedin.com/in/manav-parmar",
-    href: "https://linkedin.com/in/manav-parmar",
+    value: "linkedin.com/in/manav-parmar-a61aa41aa",
+    href: "https://linkedin.com/in/manav-parmar-a61aa41aa",
     color: "text-blue-400",
     border: "border-blue-500/30 hover:border-blue-500/60",
     bg: "hover:bg-blue-500/5",

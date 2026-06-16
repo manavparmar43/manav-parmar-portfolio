@@ -183,7 +183,7 @@ export default function About() {
             {/* Quick connect */}
             <div className="flex gap-3">
               <a
-                href="https://linkedin.com/in/manav-parmar"
+                href="https://linkedin.com/in/manav-parmar-a61aa41aa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex-1 flex items-center justify-center gap-2 py-3 rounded-xl bg-blue-600/10 border border-blue-600/20 text-blue-400 text-sm font-medium hover:bg-blue-600/20 transition-all duration-200"

@@ -75,7 +75,7 @@ export default function Footer() {
                 +91 9662771526
               </a>
               <a
-                href="https://linkedin.com/in/manav-parmar"
+                href="https://linkedin.com/in/manav-parmar-a61aa41aa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-slate-400 text-sm hover:text-cyan-400 transition-colors duration-200"
@@ -84,7 +84,7 @@ export default function Footer() {
                   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2z" />
                   <circle cx="4" cy="4" r="2" />
                 </svg>
-                linkedin.com/in/manav-parmar
+                linkedin.com/in/manav-parmar-a61aa41aa
               </a>
             </div>
           </div>
