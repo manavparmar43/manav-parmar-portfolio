@@ -138,7 +138,7 @@ export default function Hero() {
             </button>
 
             <a
-              href="https://drive.google.com/file/d/1iGINWKGCFDVXKQ6JgV36Zl4MBWp60n3N/view?usp=drive_link"
+              href="https://drive.google.com/file/d/125K9RgcW_V5Xrw8NeA6_T2t_47w2-cON/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-2 px-6 py-3.5 rounded-xl border border-slate-700 text-slate-300 font-semibold text-base hover:border-cyan-500/50 hover:text-white hover:bg-slate-800/50 transition-all duration-300"
